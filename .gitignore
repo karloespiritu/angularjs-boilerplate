@@ -1,6 +1,7 @@
-logs/*
+*.sw*
+*~
+build/
+bin/
 node_modules/
-bower_components/
-tmp
+vendor/
 .DS_Store
-.idea
